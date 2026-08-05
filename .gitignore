@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+config.local.php
+*.sql.gz
+*.dump
+*.log
+uploads/
+tmp/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
